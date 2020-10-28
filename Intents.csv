@@ -1,0 +1,33 @@
+your contact no pls,contact_no
+How to reach you,contact_no
+mobile nno,contact_no
+Do you charge for Home delivery?,Enquiry
+Is there any discount,Enquiry
+What is the criteria for free delivery charges,Enquiry
+I want to see the menu,Enquiry
+Can you show me the menu,Enquiry
+Is it the fresh vegetables?,Enquiry
+Do you provide organic veggies,Enquiry
+what services you provide,Enquiry
+Good afternoon,greetings
+good morning,greetings
+Good day,greetings
+Namaste,greetings
+Hello,greetings
+Good evening,greetings
+What are your hours of operations?,hours_info
+Do you work 24 X 7?,hours_info
+Do you work on Sundays?,hours_info
+Are you open in the mid night?,hours_info
+When do you close?,hours_info
+Are you open on Saturday?,hours_info
+What time are you open until?,hours_info
+What is your name?,info
+I want some veggies and fruits,Order
+I want to place an order,Order
+Can you take the order,Order
+rice,Order
+thanx,Thank_you
+Thank you,Thank_you
+Thank a lot,Thank_you
+thank u,Thank_you
